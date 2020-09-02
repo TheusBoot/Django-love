@@ -47,3 +47,6 @@ Django-admin startproject nome_do_seu_projeto .
 python manage.py runserver
 
 ```
+***
+## E finalmente o Django aparece!!
+![image](https://user-images.githubusercontent.com/50974964/91941803-2f59fa00-ecd0-11ea-9fb1-225851e16f96.png)
