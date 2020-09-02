@@ -41,8 +41,6 @@ pip install django==3.0
 Django-admin startproject nome_do_seu_projeto .
 
 ```
-***
-
 ### Inicializando o Servidor Django
 
 ```
