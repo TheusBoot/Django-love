@@ -35,7 +35,7 @@ source nome_da_sua_virtual_env/bin/activate
 pip install django==3.0
 
 ```
-* Criando o primeiro projeto com Django!
+### Criando o primeiro projeto com Django!
 
 ```
 Django-admin startproject nome_do_seu_projeto .
