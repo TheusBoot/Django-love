@@ -8,17 +8,6 @@
 2. [Instagram](https://www.instagram.com)
 
 ***
->Python é uma verdadeira obra de arte!
-
-## Criando uma API-Django em menos de 10 minutos!
-
-```
-Django-admin startproject nome_do_seu_projeto .
-
-```
-***
-
-* É importante lembrar que precisamos tá criando seu projeto dentro de uma virtualenv!
 
 >Criar uma virtualenv em um ambiente Linux é a coisa mais fácil do Mundo!
 
@@ -32,5 +21,31 @@ python3 -m virtualenv nome_da_sua_virtual_env
 
 ```
 source nome_da_sua_virtual_env/bin/activate
+
+```
+
+>Python é uma verdadeira obra de arte!
+
+## Criando uma API-Django em menos de 10 minutos!
+
+
+* Vou tá utilizando o Django 3.0!
+
+```
+pip install django==3.0
+
+```
+* Criando o primeiro projeto com Django!
+
+```
+Django-admin startproject nome_do_seu_projeto .
+
+```
+***
+
+### Inicializando o Servidor Django
+
+```
+python manage.py runserver
 
 ```
